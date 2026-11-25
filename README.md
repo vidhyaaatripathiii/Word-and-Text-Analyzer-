@@ -78,15 +78,6 @@ The project aims to:
 | 9 | Compare two documents containing some common words | Common words and similarity percentage should be displayed. |
 | 10 | Enter an invalid menu choice | The program should display an appropriate message. |
 
-## How to Run
-
-1. Open the project in a C-supported IDE or code editor.
-2. Save the source code with a `.c` extension.
-3. Compile the program using a C compiler.
-4. Run the compiled program.
-5. Enter the text when prompted.
-6. Select the required operation from the displayed menu.
-
 ## Team Members & Contributions
 
 ### 1. Vidhya Tripathi
